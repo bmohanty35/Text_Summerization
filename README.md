@@ -1,6 +1,6 @@
 # Text_Summerization
 
-# Step-by-Step Process for Text Summarization & Keyword Extraction Project
+Step-by-Step Process for Text Summarization & Keyword Extraction Project
 Step 1: Install Required Libraries
 Install the Hugging Face transformers library (if not already installed):
 
@@ -22,8 +22,8 @@ Use a simple function that: Lowercases the text, Removes common stopwords, Finds
 Step 6: Input Your Text
 Provide the paragraph or content you want to analyze.
 
-# Step 7: Run the Pipeline
+Step 7: Run the Pipeline
 Call the summarization and keyword extraction functions on the input text.
 
-# Step 8: Display Results
+Step 8: Display Results
 Print the: Original text, Summarized version, Top keywords
