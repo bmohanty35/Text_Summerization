@@ -1,6 +1,7 @@
 # Text_Summerization
 
 Step-by-Step Process for Text Summarization & Keyword Extraction Project
+
 Step 1: Install Required Libraries
 Install the Hugging Face transformers library (if not already installed):
 
